@@ -1,0 +1,24 @@
+{
+"product" [
+{"id":1,"name":"Southern boubou","category":"Maroon"},
+{"id":2,"name":"Crow, pied","category":"Blue"},
+{"id":3,"name":"Shrike, crimson-breasted","category":"Teal"},
+{"id":4,"name":"Dassie","category":"Teal"},
+{"id":5,"name":"Turkey, common","category":"Red"},
+{"id":6,"name":"Magpie, australian","category":"Aquamarine"},
+{"id":7,"name":"Jaeger, long-tailed","category":"Crimson"},
+{"id":8,"name":"Ibis, sacred","category":"Maroon"},
+{"id":9,"name":"Indian jackal","category":"Crimson"},
+{"id":10,"name":"Flamingo, greater","category":"Maroon"},
+{"id":11,"name":"Eastern indigo snake","category":"Green"},
+{"id":12,"name":"Giant anteater","category":"Aquamarine"},
+{"id":13,"name":"Desert spiny lizard","category":"Indigo"},
+{"id":14,"name":"Vicuna","category":"Maroon"},
+{"id":15,"name":"Kaffir cat","category":"Maroon"},
+{"id":16,"name":"Eastern quoll","category":"Purple"},
+{"id":17,"name":"Goose, greylag","category":"Khaki"},
+{"id":18,"name":"Seal, northern fur","category":"Orange"},
+{"id":19,"name":"European red squirrel","category":"Yellow"},
+{"id":20,"name":"Cow, scottish highland","category":"Maroon"}
+]
+}
